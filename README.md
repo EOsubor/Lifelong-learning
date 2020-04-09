@@ -347,6 +347,17 @@
 - [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
 - [] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
 
+### Be adept in SQL
+- [] [Codecademy: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+
+
+### Be able to analyze data & test hyptheses with Scipy
+- [X] [[Codecademy: Introduction to SciPy (https://www.coursera.org/learn/introduction-tensorflow)
+- [X] [Codecademy: Learn Sample Size Determination with SciPy](https://www.codecademy.com/paths/data-science/tracks/scipy/modules/ida-7-2-sample-size-determination/lessons/sample-size-determination/exercises/introduction)
+- [X] [Codecademy: Hypothesis Testing](https://www.codecademy.com/paths/data-science/tracks/scipy/modules/dspath-hypothesis-testing/lessons/hypothesis-testing/exercises/types-of-hypothesis-test)
+- [X] [Codecademy: Statistical Concepts](https://www.codecademy.com/paths/data-science/tracks/scipy/modules/dspath-hypothesis-testing/lessons/statistical-concepts/exercises/sc-introduction)
+
+
 ### Be able to implement neural networks in Tensorflow and Keras
 - [] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 - [] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
