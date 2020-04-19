@@ -118,7 +118,7 @@
 - [ ] [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
 - [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
-- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
+- [X] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
@@ -320,7 +320,7 @@
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
-- [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
+- [X] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 
 ### Be able to implement models for timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
@@ -348,7 +348,7 @@
 - [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
 
 ### Be adept in SQL
-- [] [Codecademy: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+- [ ] [Codecademy: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 
 
 ### Be able to analyze data & test hyptheses with Scipy
@@ -373,11 +373,11 @@
 - [ ] [Google: Keras Blog](https://medium.com/tensorflow/tagged/keras)
 - [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
-- [] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [ ] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
+- [ ] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Be able to implement models in PyTorch
-- [] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+- [ ] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
@@ -452,7 +452,7 @@
 - [ ] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-- [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
+- [X] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
@@ -507,7 +507,7 @@
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-- [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
+- [X] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
 - [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -592,7 +592,7 @@
 ### Be familiar with the hiring pipeline
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [X] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
-- [] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
+- [ ] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [ ] [Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)
 - [ ] [Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
